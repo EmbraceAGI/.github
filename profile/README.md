@@ -11,12 +11,6 @@
 
 # 项目
 
-## AIGC Interview: AIGC 求职面试指南
-
-AIGC 必备基础知识、提示词工程、大模型、提示词工程师、ChatGPT、Stable Diffusion、Prompt、Embedding、Fintune 等 AIGC 求职你所需要知道的一切。
-
-**项目地址：**[AIGC 求职面试指南](https://github.com/EmbraceAGI/AIGC_Interview)
-
 ## AIGG：AI Good Games
 
 使用GPT等AI工具构建人工智能驱动的游戏，从有穷中觅无穷，一起来构建属于你自己的万千世界(内含多款游戏)。
