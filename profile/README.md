@@ -23,7 +23,7 @@
 
 LangGPT 项目旨在以结构化、模板化的方式可操作，可重复地编写高质量 ChatGPT prompt，一种面向大模型的 prompt 编程语言。
 
-**项目地址：**[LangGPT项目主页](https://github.com/EmbraceAGI/AIGoodGames)
+**项目地址：**[LangGPT项目主页](https://github.com/EmbraceAGI/LangGPT)
 
 **社区飞书文档：** 点击[LangGPT社区飞书文档](http://feishu.langgpt.ai/)阅读社区精选与加入项目社群。
 
